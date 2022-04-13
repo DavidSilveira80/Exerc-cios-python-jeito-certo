@@ -1,5 +1,5 @@
 from sys import argv
-
+# Execute esse programa no terminal do seguinte modo: python3 ex14.py "digite aqui seu nome"
 script, user_name = argv
 prompt = '> '
 
@@ -8,7 +8,7 @@ print("I'd like to ask you a few questions.")
 print(f"Do you like me {user_name}?")
 likes = input(prompt)
 
-print(f"Wher do you live {user_name}?")
+print(f"Where do you live {user_name}?")
 lives = input(prompt)
 
 print("What kind of computer do you have?")
