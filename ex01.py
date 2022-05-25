@@ -1,6 +1,1 @@
-print("Hello World!")
-print("hello Again.")
-print("I like typing this.")
-print('Yay! Printing.')
-print("I'd much rather you 'not'.")
-print('I "said" do not touch this.')
+print("Hello World!\nhello Again.\nI like typing this.\nYay! Printing\nI'd much rather you 'not'.\nI 'said' do not touch this.")
