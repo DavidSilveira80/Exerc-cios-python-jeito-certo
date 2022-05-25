@@ -45,7 +45,7 @@ for abbrev, city in list(cities.items()):
 
 # agora faça ambos ao mesmo tempo
 print('-' * 10)
-for sate, abbrev in list(states.items()):
+for state, abbrev in list(states.items()):
     print(f"{state} state is abbreviated {abbrev}")
     print(f"and has city {cities[abbrev]}")
 
